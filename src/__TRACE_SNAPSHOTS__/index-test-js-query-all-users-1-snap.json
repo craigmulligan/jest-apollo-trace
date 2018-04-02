@@ -1,0 +1,215 @@
+{
+  "duration": 630656.26,
+  "parsing": null,
+  "validation": null,
+  "execution": {
+    "resolvers": [
+      {
+        "path": [
+          "allUsers"
+        ],
+        "duration": 354768.8
+      },
+      {
+        "path": [
+          "allUsers",
+          0,
+          "id"
+        ],
+        "duration": 4303.4
+      },
+      {
+        "path": [
+          "allUsers",
+          1,
+          "id"
+        ],
+        "duration": 1784.5
+      },
+      {
+        "path": [
+          "allUsers",
+          2,
+          "id"
+        ],
+        "duration": 1505.4
+      },
+      {
+        "path": [
+          "allUsers",
+          3,
+          "id"
+        ],
+        "duration": 1708.58
+      },
+      {
+        "path": [
+          "allUsers",
+          4,
+          "id"
+        ],
+        "duration": 1597.6
+      },
+      {
+        "path": [
+          "allUsers",
+          5,
+          "id"
+        ],
+        "duration": 1511.44
+      },
+      {
+        "path": [
+          "allUsers",
+          6,
+          "id"
+        ],
+        "duration": 1405.42
+      },
+      {
+        "path": [
+          "allUsers",
+          7,
+          "id"
+        ],
+        "duration": 1438.22
+      },
+      {
+        "path": [
+          "allUsers",
+          8,
+          "id"
+        ],
+        "duration": 1290.64
+      },
+      {
+        "path": [
+          "allUsers",
+          9,
+          "id"
+        ],
+        "duration": 1400.16
+      },
+      {
+        "path": [
+          "allUsers",
+          10,
+          "id"
+        ],
+        "duration": 1416.9
+      },
+      {
+        "path": [
+          "allUsers",
+          11,
+          "id"
+        ],
+        "duration": 1427.1
+      },
+      {
+        "path": [
+          "allUsers",
+          12,
+          "id"
+        ],
+        "duration": 1396.2
+      },
+      {
+        "path": [
+          "allUsers",
+          13,
+          "id"
+        ],
+        "duration": 2363.6
+      },
+      {
+        "path": [
+          "allUsers",
+          14,
+          "id"
+        ],
+        "duration": 1431.7
+      },
+      {
+        "path": [
+          "allUsers",
+          15,
+          "id"
+        ],
+        "duration": 1289.6
+      },
+      {
+        "path": [
+          "allUsers",
+          16,
+          "id"
+        ],
+        "duration": 1475.52
+      },
+      {
+        "path": [
+          "allUsers",
+          17,
+          "id"
+        ],
+        "duration": 1496.38
+      },
+      {
+        "path": [
+          "allUsers",
+          18,
+          "id"
+        ],
+        "duration": 1319.28
+      },
+      {
+        "path": [
+          "allUsers",
+          19,
+          "id"
+        ],
+        "duration": 1462.52
+      },
+      {
+        "path": [
+          "allUsers",
+          20,
+          "id"
+        ],
+        "duration": 1300.12
+      },
+      {
+        "path": [
+          "allUsers",
+          21,
+          "id"
+        ],
+        "duration": 1393.8
+      },
+      {
+        "path": [
+          "allUsers",
+          22,
+          "id"
+        ],
+        "duration": 1368.28
+      },
+      {
+        "path": [
+          "allUsers",
+          23,
+          "id"
+        ],
+        "duration": 1238.44
+      },
+      {
+        "path": [
+          "allUsers",
+          24,
+          "id"
+        ],
+        "duration": 1290.68
+      }
+    ]
+  }
+}
